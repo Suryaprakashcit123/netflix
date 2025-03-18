@@ -1,0 +1,92 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.heading{
+    font-family: sans-serif;
+    color: red;
+    font-size: 30px;
+    text-shadow: 10px 10px 8px black;
+    padding-left: 80px;
+    padding-top: 40px;
+}
+.heading1{
+    padding-top: 30px;
+    padding-left: 900px;
+    border: 1px thin black;
+    font-size: 24px;
+    color: white;
+}
+
+
+.s{
+    
+      
+       text-shadow: 10px 10px 8px black;
+        padding: 10px;
+        border-radius: 3%;
+        padding-top: 40px;
+
+}
+.s1{
+    text-decoration: none;
+    color: white;
+    background-color: red;
+    border-radius: 3%;
+    font-size: 24px;
+    padding-left: 15px;
+    padding-right: 15px;
+
+}
+
+.content{
+    text-align: center;
+    padding-top: 200px;
+}
+.s2{
+    text-decoration: none;
+    color: white;
+    background-color: red;
+    border-radius: 3%;
+    font-size: 30px;
+    padding-left: 15px;
+    padding-right: 15px;
+    justify-content: space-between;
+
+}
+.heading4{
+    padding: 30px;
+    
+}
+.second{
+    height: 500px;
+    width: 1480px;
+    background-color: black;
+    padding: 20px;
+}
+.third{
+    height: 500px;
+    width: 1480px;
+    background-color: black;
+    padding: 20px;
+}
+.sunil{
+    font-size: 45px;
+    color: white;
+    padding-top: 150px;
+    margin-left: 590px;
+}
+.SN{
+    height: 500px;
+    width: 1480px;
+    background-color: black;
+    padding: 20px;
+}
+.eh{
+    padding-top: 200px;
+    padding-left: 150px;
+}
+
+    
+   
